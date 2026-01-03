@@ -1,4 +1,4 @@
-# Predictive Analysis of Police Killings (2015-2017)
+# Predictive Analysis of Police Killings
 
 ## Overview
 
